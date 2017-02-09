@@ -1,3 +1,3 @@
 # dgm_ibk
 
-DGM INNSBRUCK 10 m (südlich 242000 GK M 28)
+DGM OSTTIROL 10 m. Datenquelle: „Land Tirol- data.tirol.gv.at“ 
